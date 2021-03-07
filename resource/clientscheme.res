@@ -1,3 +1,4 @@
+
 //
 // TRACKER SCHEME RESOURCE FILE
 //
@@ -2907,6 +2908,20 @@ Scheme
 			{
 				"name"		"VCR OSD Mono"
 				"tall"		"35"
+				"tall_hidef"	"24"
+				"tall_lodef"	"20"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+
+	}
+	"pixel12"
+		{
+			"1"
+			{
+				"name"		"VCR OSD Mono"
+				"tall"		"12"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
 				"weight"	"500"
